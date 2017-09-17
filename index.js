@@ -5,9 +5,9 @@ if (name === "Susan") {
   console.log("The correct name is entered.")
 } else {
   console.log("We are looking for the name of Susan!")
+  var name = "Susan"
 }
 
 // Don't worry about this
 module.exports = { name, height
 }
-

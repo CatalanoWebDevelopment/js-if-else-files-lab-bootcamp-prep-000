@@ -8,6 +8,12 @@ if (name === "Susan") {
   var name = "Susan"
 }
 
+if (name === "Susan") {
+  console.log("We changed it!")
+} else {
+  console.log("Shit")
+}
+
 // Don't worry about this
 module.exports = { name, height
 }

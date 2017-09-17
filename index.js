@@ -1,10 +1,10 @@
-var name = "Joe"
+var name = "Susan"
 var height = "74"
 
 if (name === "Susan") {
-  console.log("The correct name is entered.")
+  console.log("The name is correct.")
 } else {
-  console.log("We are looking for the name of Susan!")
+  console.log("Expected the name to be Susan.")
 }
 
 
